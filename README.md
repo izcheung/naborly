@@ -1,11 +1,5 @@
 # Naborly
 
-![image](https://github.com/user-attachments/assets/afe68390-26c3-43ee-b2f4-d821abc6f6d0)
-![image](https://github.com/user-attachments/assets/a6031a0b-f92d-4ab8-b124-6cb207b82a0d)
-![image](https://github.com/user-attachments/assets/74ff9ce3-3adb-47cb-ab4c-ce9d0141cac9)
-![image](https://github.com/user-attachments/assets/7769302d-770d-4b7a-a95e-b51f6758ca3a)
-![image](https://github.com/user-attachments/assets/e0a2a7ad-d64a-49bb-9040-5009a157bc93)
-
 ## 0. Related Links
 * Website: https://comp1800-dtc04-1214c.web.app/
 * Figma: https://www.figma.com/file/UVVj9JKf3l5s2dm3ygJ6eH/Brainstorm-Smart-Cities
@@ -47,8 +41,16 @@ In the future, we would like to build:
 * Allowing users to add friends or have a community board
 * Allow users to edit their completed quest list
 * Record time stamp for the time of completion
+
+## 7. Screenshots
+
+![image](https://github.com/user-attachments/assets/afe68390-26c3-43ee-b2f4-d821abc6f6d0)
+![image](https://github.com/user-attachments/assets/a6031a0b-f92d-4ab8-b124-6cb207b82a0d)
+![image](https://github.com/user-attachments/assets/74ff9ce3-3adb-47cb-ab4c-ce9d0141cac9)
+![image](https://github.com/user-attachments/assets/7769302d-770d-4b7a-a95e-b51f6758ca3a)
+![image](https://github.com/user-attachments/assets/e0a2a7ad-d64a-49bb-9040-5009a157bc93)
 	
-## 7. Contents of Folder
+## 8. Contents of Folder
 Content of the project folder:
 
 ```
