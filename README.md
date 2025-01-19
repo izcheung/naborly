@@ -1,5 +1,11 @@
 # Naborly
 
+![image](https://github.com/user-attachments/assets/afe68390-26c3-43ee-b2f4-d821abc6f6d0)
+![image](https://github.com/user-attachments/assets/a6031a0b-f92d-4ab8-b124-6cb207b82a0d)
+![image](https://github.com/user-attachments/assets/74ff9ce3-3adb-47cb-ab4c-ce9d0141cac9)
+![image](https://github.com/user-attachments/assets/7769302d-770d-4b7a-a95e-b51f6758ca3a)
+![image](https://github.com/user-attachments/assets/e0a2a7ad-d64a-49bb-9040-5009a157bc93)
+
 ## 0. Related Links
 * Website: https://comp1800-dtc04-1214c.web.app/
 * Figma: https://www.figma.com/file/UVVj9JKf3l5s2dm3ygJ6eH/Brainstorm-Smart-Cities
@@ -9,9 +15,9 @@
 Näborly is a web application that helps newcomers strengthen their sense of belonging by promoting community involvement and exploration through a game-like experience.
 
 ## 2. Contributors
-* Hello, my name is Irene and I am excited about this project because we get to make a web application from scratch.
-* Hi! I'm Daylen Smith (rockclimber147), I'm looking forward to collaborating on this project! 
-* I'm Tatsuya, and I'm excited for the project because I like challenging new things. I'll do my best. :)
+* Irene Cheung
+* Daylen Smith
+* Tatsuya Yoshida
 	
 ## 3. Technologies and Resources Used
 * HTML, CSS, JavaScript
@@ -23,6 +29,7 @@ Näborly is a web application that helps newcomers strengthen their sense of bel
 
 ## 4. Complete setup/installion/usage
 * To start the application, live serve index.html
+* Please ensure to allow location services
 
 ## 5. Known Bugs and Limitations
 Some of the known bugs are:
