@@ -1,22 +1,19 @@
 # Naborly
 
 ## 0. Related Links
-* Deployed website: https://comp1800-dtc04-1214c.web.app/
+* Website: https://comp1800-dtc04-1214c.web.app/
 * Figma: https://www.figma.com/file/UVVj9JKf3l5s2dm3ygJ6eH/Brainstorm-Smart-Cities
 * Trello: https://trello.com/b/zBAQsD0b/1800202330dtc04
 
 ## 1. Project Description
-State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
-This browser based web application to ... 
+Näborly is a web application that helps newcomers strengthen their sense of belonging by promoting community involvement and exploration through a game-like experience.
 
-## 2. Names of Contributors
-List team members and/or short bio's here... 
+## 2. Contributors
 * Hello, my name is Irene and I am excited about this project because we get to make a web application from scratch.
 * Hi! I'm Daylen Smith (rockclimber147), I'm looking forward to collaborating on this project! 
 * I'm Tatsuya, and I'm excited for the project because I like challenging new things. I'll do my best. :)
 	
 ## 3. Technologies and Resources Used
-List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
 * HTML, CSS, JavaScript
 * Bootstrap 5.0 (Frontend library)
 * Firebase 8.0 (BAAS - Backend as a Service)
@@ -25,19 +22,17 @@ List technologies (with version numbers), API's, icons, fonts, images, media or 
 * Geolocation
 
 ## 4. Complete setup/installion/usage
-State what a user needs to do when they come to your project.  How do others start using your code or application?
-Here are the steps ...
-* Live serve index.html!
+* To start the application, live serve index.html
 
 ## 5. Known Bugs and Limitations
-Here are some known bugs:
+Some of the known bugs are:
 * Quest distances to user break when user does not consent to sharing their location
 * Depending on PC, sometimes it takes a long time to load the map
 * Quest ratings and cost displayed on quest details and cards are not dynamically generated from user reviews
 * Quests cannot be sorted by user preferences yet 
 
 ## 6. Features for Future
-What we'd like to build in the future:
+In the future, we would like to build:
 * Implement location checking for completing quests
 * Multi stage quests, or quests where the user has to visit several places
 * Show level under the profile icon on the top right
