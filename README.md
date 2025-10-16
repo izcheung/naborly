@@ -3,7 +3,7 @@
 [![Live Website](https://img.shields.io/badge/Live-Website-brightgreen)](https://comp1800-dtc04-1214c.web.app/)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-blue)](https://www.figma.com/file/UVVj9JKf3l5s2dm3ygJ6eH/Brainstorm-Smart-Cities)
 
-![Demo](./assets/Demo.gif)
+<img src="./assets/Demo.gif" width="200">
 
 ## Table of Contents
 
