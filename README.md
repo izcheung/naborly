@@ -21,7 +21,7 @@
 
 ## Summary
 
-**Näborly** is a gamified web application designed to help newcomers strengthen their sense of belonging by promoting community involvement and exploration. Users can discover local quests, complete community activities, earn points, level up, and share their experiences through reviews. The app combines interactive mapping with a quest-based progression system.
+"Näborly" is a gamified web application designed to help newcomers strengthen their sense of belonging by promoting community involvement and exploration. Users can discover local quests, complete community activities, earn points, level up, and share their experiences through reviews. The app combines interactive mapping with a quest-based progression system.
 
 ## Motivation
 
