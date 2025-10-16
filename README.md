@@ -171,20 +171,20 @@ naborly/
 
 ### Landing Page
 
-![Landing Page](https://github.com/user-attachments/assets/afe68390-26c3-43ee-b2f4-d821abc6f6d0)
-
-### Quest Discovery
-
-![Quest Discovery](https://github.com/user-attachments/assets/a6031a0b-f92d-4ab8-b124-6cb207b82a0d)
+<img src="https://github.com/user-attachments/assets/afe68390-26c3-43ee-b2f4-d821abc6f6d0" width=200>
 
 ### Interactive Map
 
-![Interactive Map](https://github.com/user-attachments/assets/74ff9ce3-3adb-47cb-ab4c-ce9d0141cac9)
+<img src="https://github.com/user-attachments/assets/a6031a0b-f92d-4ab8-b124-6cb207b82a0d" width=200>
+
+### Quest List View
+
+<img src="https://github.com/user-attachments/assets/e0a2a7ad-d64a-49bb-9040-5009a157bc93" width=200>
 
 ### Quest Details
 
-![Quest Details](https://github.com/user-attachments/assets/7769302d-770d-4b7a-a95e-b51f6758ca3a)
+<img src="https://github.com/user-attachments/assets/7769302d-770d-4b7a-a95e-b51f6758ca3a" width=200>
 
-### User Profile
+### Profile Page
 
-![User Profile](https://github.com/user-attachments/assets/e0a2a7ad-d64a-49bb-9040-5009a157bc93)
+<img src="https://github.com/user-attachments/assets/74ff9ce3-3adb-47cb-ab4c-ce9d0141cac9" width=200>
