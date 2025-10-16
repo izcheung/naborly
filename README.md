@@ -30,9 +30,7 @@ This project was developed as a collaborative effort to address the challenges n
 ## Requirements
 
 - Location services permission (required for quest distance calculations)
-
 - Firebase project with Firestore, Authentication, and Storage configured
-
 - Mapbox access token
 
 ## Tech Stack
@@ -43,8 +41,6 @@ This project was developed as a collaborative effort to address the challenges n
 - **Additional:** Geolocation API, Firebase UI Auth
 
 ## Quick Start
-
-### Installation
 
 1. **Clone the repository:**
 
